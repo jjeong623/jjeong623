@@ -10,7 +10,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2A93CD&random=false&width=435&lines=+Nice+to+meet+you!)](https://git.io/typing-svg)<br>
 
 ![jjeong623's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjeong623&show_icons=true&theme=tokyonight)
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Main Language<br>
 <div style="display: flex; align-items: flex-start;">
@@ -27,7 +26,7 @@
   </div>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjeong623&layout=compact&theme=dracula)
-
+  ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## Contacts
 
 <a href="mailto:hajeonghui@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-de0101?style=soft-square&logo=gmail&logoColor=white"/></a>
