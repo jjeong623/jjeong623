@@ -19,17 +19,20 @@
 
 ## My Skill
 <div>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MyBatis-4D4746?style=for-the-badge&logoColor=white">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjeong623&layout=compact&theme=dracula)
 
   ## Contacts
-<a href="mailto:hajeonghui@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-de0101?style=soft-square&logo=gmail&logoColor=white"/></a>
-<a href="https://blog.naver.com/rachel623_" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=soft-square&logo=Github&logoColor=black"/></a>
+
+<a href="mailto:hajeonghui@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://blog.naver.com/rachel623_" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=for-the-badge&logo=Github&logoColor=black"/></a>
 
 
 
