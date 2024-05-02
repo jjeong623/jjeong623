@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/MyBatis-4D4746?style=for-the-badge&logoColor=white">
   <br><br>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjeong623&layout=compact&theme=dracula)
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjeong623&layout=compact&theme=dracula) -->
 
   ## Contacts
 
