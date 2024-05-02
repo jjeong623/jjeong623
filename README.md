@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=300&section=header&text=Rachel's+World&fontSize=80" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2A93CD&random=false&width=435&lines=Hello%2C+I'm+Rachel!)](https://git.io/typing-svg)<br>
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjeong623%2Fjjeong623&count_bg=%2347BAE7&title_bg=%23C8DFEB&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)
+<!--![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjeong623%2Fjjeong623&count_bg=%2347BAE7&title_bg=%23C8DFEB&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)-->
 
 
 ![jjeong623's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjeong623&show_icons=true&theme=tokyonight)
@@ -27,7 +27,8 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MyBatis-4D4746?style=for-the-badge&logoColor=white">
-
+  <br><br>
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjeong623&layout=compact&theme=dracula)
 
   ## Contacts
@@ -39,7 +40,8 @@
 
 ## Contribution
 
-  ![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg)-->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="70%"/>
   
 </div>
 
